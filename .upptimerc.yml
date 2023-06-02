@@ -6,6 +6,7 @@ sites:
   - name: Website
     url: https://thecrafters001.github.io
   - name: TF2 Server
+    check: "tcp-ping"
     url: $TF2_SERVER
     port: $PORT
 
