@@ -22,17 +22,17 @@
     "url": "$TF2_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tf-2-server",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 43,
-    "timeDay": 63,
-    "timeWeek": 37,
-    "timeMonth": 43,
-    "timeYear": 43,
+    "time": 44,
+    "timeDay": 60,
+    "timeWeek": 39,
+    "timeMonth": 44,
+    "timeYear": 44,
     "dailyMinutesDown": {}
   }
 ]
