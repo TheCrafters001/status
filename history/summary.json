@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 123,
-    "timeWeek": 118,
+    "timeDay": 58,
+    "timeWeek": 108,
     "timeMonth": 90,
     "timeYear": 95,
     "dailyMinutesDown": {}
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tf-2-server",
     "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "33.70%",
-    "uptimeWeek": "90.53%",
-    "uptimeMonth": "97.82%",
-    "uptimeYear": "99.53%",
+    "uptime": "98.84%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "76.26%",
+    "uptimeMonth": "94.54%",
+    "uptimeYear": "98.84%",
     "time": 44,
-    "timeDay": 52,
-    "timeWeek": 53,
+    "timeDay": 23,
+    "timeWeek": 46,
     "timeMonth": 43,
     "timeYear": 44,
     "dailyMinutesDown": {
-      "2023-10-22": 32,
+      "2023-10-23": 29,
+      "2023-10-22": 1440,
       "2023-10-21": 923
     }
   }
