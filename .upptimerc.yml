@@ -9,6 +9,7 @@ sites:
     check: "tcp-ping"
     url: $TF2_SERVER
     port: $PORT
+    icon: https://steamcdn-a.akamaihd.net/apps/tf2/blog/images/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
