@@ -22,7 +22,7 @@ status-website:
   introMessage: This contains the **real-time** server data for my website and TF2 Server. This utilizes just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
-      href: /
+      href: /status
     - title: Support
       href: https://tf2-gj-server.tawk.help/
     - title: GitHub
