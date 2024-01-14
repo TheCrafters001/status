@@ -23,8 +23,8 @@ status-website:
   navbar:
     - title: Status
       href: /status
-    - title: Support
-      href: https://tf2-gj-server.tawk.help/
+    - title: Home
+      href: https://thecrafters001.github.io
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
