@@ -21,6 +21,8 @@ status-website:
   introTitle: "**Server Uptime**"
   introMessage: This contains the **real-time** server data for my website and TF2 Server. This utilizes just GitHub Actions, Issues, and Pages.
   navbar:
+    - title: Home
+      href: https://thecrafters001.github.io
     - title: Status
       href: /status
     - title: GitHub
